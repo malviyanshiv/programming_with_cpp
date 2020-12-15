@@ -1,0 +1,5 @@
+#ignore the vscode setting files
+.vscode
+
+#ignore the build files
+*.exe
